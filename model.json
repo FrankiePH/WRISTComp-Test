@@ -15,7 +15,7 @@
       "maximumMultiplicity": "1",
       "concept": [
         {
-          "name": "New Child",
+          "name": "Child row A",
           "mro": "M",
           "description": "",
           "valueSets": "",
