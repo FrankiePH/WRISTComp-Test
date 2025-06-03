@@ -1,1 +1,32 @@
-{"version": "1.0", "name": "WRISTComp-Test", "description": "<p>This is a <strong>TEST </strong>repo for the testing of <strong>components</strong></p>", "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implamentationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
+{
+  "version": "1.0",
+  "name": "WRISTComp-Test",
+  "description": "<p>This is a <strong>TEST </strong>repo for the testing of <strong>components</strong></p>",
+  "concept": [
+    {
+      "name": "Item",
+      "mro": "M",
+      "description": "",
+      "valueSets": "",
+      "implamentationGuidance": "",
+      "informationType": "Record",
+      "type": "item",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1",
+      "concept": [
+        {
+          "name": "New Child",
+          "mro": "M",
+          "description": "",
+          "valueSets": "",
+          "implamentationGuidance": "",
+          "informationType": "Record",
+          "type": "item",
+          "minimumMultiplicity": "0",
+          "maximumMultiplicity": "1",
+          "concept": []
+        }
+      ]
+    }
+  ]
+}
