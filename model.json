@@ -4,9 +4,9 @@
   "description": "<p>This is a <strong>TEST </strong>repo for the testing of <strong>components</strong></p>",
   "concept": [
     {
-      "name": "Item",
+      "name": "Test Component",
       "mro": "M",
-      "description": "",
+      "description": "This is a test component with two children",
       "valueSets": "",
       "implamentationGuidance": "",
       "informationType": "Record",
